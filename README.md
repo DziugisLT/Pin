@@ -1,1 +1,3 @@
 # Pin
+
+Simple pin input
